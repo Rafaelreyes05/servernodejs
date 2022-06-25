@@ -1,0 +1,6 @@
+[
+{"title":"cuaderno","price":30,"url":"/cuaderno","id":1},
+{"title":"lapiz","price":30,"url":"/lapiz","id":2},
+{"title":"escuadra","price":30,"url":"/escuadra","id":3},
+{"title":"calculadora","price":30,"url":"/calculadora","id":4}
+]
