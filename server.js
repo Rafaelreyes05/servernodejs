@@ -29,6 +29,11 @@ class Container{
 
 const archivo = new Container ('productos.txt')
 
+app.get('/productos',(req,res)=>{
+    console.log('Bienvenido!!')
+    res.send('Bienvenido!!')
+})
+
 
 app.get('/productos',(req,res)=>{
     console.log('Todos los productos')
